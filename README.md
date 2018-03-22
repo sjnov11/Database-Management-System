@@ -4,9 +4,9 @@
 
 
 
-1. [SQL](/project1/)
+1. [SQL](/project1/) (no wiki)
 
-2. [Diskbased B+tree](/project2)
+2. [Diskbased B+tree](/project2) (no wiki)
 
 3. [Buffer management](/project3)
 
